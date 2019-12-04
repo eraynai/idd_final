@@ -1,5 +1,5 @@
 const products = [{
-    Product_Name: 'Cat Carrier',
+    Product_Name: 'Cat Carrier for Mad Max',
     Product_image: 'img/blue_carrier.jpg',
     Product_color_1: 'g',
     Product_color_2: 'r',
