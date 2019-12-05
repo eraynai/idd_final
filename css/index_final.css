@@ -1,0 +1,134 @@
+* {
+    font-family: Dhyana;
+    font-style: normal;
+    font-weight: normal;
+
+}
+header {
+    width: 100%;
+    height: 307px;
+    left: 0;
+    right: 0;
+    background: #FFCCCC;
+}
+
+.logo {
+    width: 204px;
+    height: 240px;
+    margin-left: 82px;
+    margin-top: 33px;
+}
+.container_1 {
+    display: grid;
+    grid-template-columns: auto 400px;
+    grid-template-rows: auto;
+}
+
+.nav_1 {
+    margin-top: 140px;
+}
+.navigation li {
+    display: inline;
+    font-size: 24px;
+    line-height: 39px;
+    margin-right: 70px;
+}
+
+.navigation li a {
+    color: #727272;
+    text-decoration: none;
+}
+
+.filtering_options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px;
+}
+
+.drop_down {
+   
+    text-align: center;
+}
+
+.drop_select {
+    margin-top: 100px;
+}
+
+.products {
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: repeat(3, 30%);
+    grid-template-rows: auto;
+    grid-auto-flow: row;
+    margin-left: 50px;
+}
+
+.product {
+    text-align: center;
+    background-color: #B28B8B;
+    border-radius: 20px;
+}
+
+.product h3 {
+    font-size: 26px;
+    margin-top: 20px;
+}
+
+.product ul li {
+    list-style-type: circle;
+}
+
+small {
+    font-size: smaller;
+}
+
+.callout {
+    display: inline-block;
+    padding: 0.25em 0.5em;
+    border-radius: 0.25em;
+    background-color: grey;
+    color: white;
+    box-shadow: 0 0 0.5em rgba(0,0,0,0.4);
+    text-shadow: 0.125em 0.125em 0 rgba(0,0,0,0.4);
+}
+
+.urgent {
+    background-color: crimson;
+}
+
+.product_list {
+    width: 300px;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.product_list ul {
+    margin-left: 200px;
+}
+
+footer {
+    width: 100%;
+    height: 307px;
+    left: 0;
+    right: 0;
+    background: #FFCCCC;
+    text-align: center;
+    margin-top: 50px;    
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.product img {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.product button {
+    margin-bottom: 20px;
+}
