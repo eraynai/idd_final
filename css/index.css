@@ -97,8 +97,6 @@ small {
 }
 
 .product_list {
-    width: 300px;
-    text-align: left;
     margin-top: 30px;
     margin-bottom: 30px;
     display: flex;
