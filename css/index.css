@@ -101,11 +101,11 @@ small {
     text-align: left;
     margin-top: 30px;
     margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
 }
 
-.product_list ul {
-    margin-left: 200px;
-}
+
 
 footer {
     width: 100%;
