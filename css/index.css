@@ -75,7 +75,7 @@ header {
 }
 
 .product ul li {
-    list-style-type: circle;
+    list-style: none;
 }
 
 small {
@@ -101,6 +101,7 @@ small {
     margin-bottom: 30px;
     display: flex;
     justify-content: center;
+    list-style: square inside;
 }
 
 
