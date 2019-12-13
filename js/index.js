@@ -19,7 +19,7 @@ const products = [{
 }, {
    Title: "Space Capsule Cat Carrier",
    Type: "Anti-Allergic",
-   Constuction: "Machine Made",
+   Construction: "Machine Made",
    Warranty: "3 Year Warranty",
    Price: "$34.99",
    Image: "img/carrier_3.jpg",
@@ -180,7 +180,7 @@ const products = [{
 
     Title: "Hard Case Cat Carrier",
     Type: "Durable",
-    Constuction: "Hard Plastic with Metal Parts",
+    Construction: "Hard Plastic with Metal Parts",
     Warranty: "5 Year Warranty",
     Price: "$79.99",
     Image: "img/carrier_19.jpg",
@@ -189,7 +189,7 @@ const products = [{
 },{
     Title: "Hard Case Cat Carrier",
     Type: "Durable",
-    Constuction: "Hard Plastic with Metal Parts",
+    Construction: "Hard Plastic with Metal Parts",
     Warranty: "5 Year Warranty",
     Price: "$59.99",
     Image: "img/carrier_20.jpg",
