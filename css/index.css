@@ -1,7 +1,7 @@
 * {
     font-family: Dhyana;
     font-style: normal;
-    font-weight: normal;
+    
 
 }
 header {
@@ -76,6 +76,8 @@ header {
 
 .product ul li {
     list-style: none;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 small {
@@ -101,7 +103,6 @@ small {
     margin-bottom: 30px;
     display: flex;
     justify-content: center;
-    list-style: square inside;
 }
 
 
